@@ -1,0 +1,122 @@
+.logo {
+  width: 100%;
+  background-color: gray;
+  height: 100px;
+  position: fixed;
+
+
+}
+
+
+
+.lg {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 200px;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: black;
+  height: 100%;
+
+  position: fixed;
+  left: 0px;
+  top: 100px;
+}
+
+
+#addproduct,
+#product,
+#view,
+#cart,
+#image1 {
+  text-decoration: none;
+  color: white;
+}
+
+.vf {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: larger;
+}
+
+.bu12 {
+  float: right;
+}
+
+.vv {
+  padding-left: 200px;
+  padding-top: 100px;
+  z-index: 10;
+
+
+}
+
+.v {
+  width: 150px;
+}
+
+
+
+.v6 {
+  margin-right: 10px;
+}
+
+.v2 {
+  display: flex;
+  margin: 10px;
+  justify-content: space-around;
+  color: black;
+}
+
+.dd {
+  flex-wrap: wrap;
+}
+
+.c1 {
+  padding-top: 100px;
+  justify-content: space-around;
+}
+
+.nav1 {
+  padding-left: 200px;
+}
+
+.c2 {
+  padding-top: 30px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+
+}
+
+.img12 {
+  width: 500px;
+}
+
+.c {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 200px;
+}
+
+.c3 {
+  padding-left: 200px;
+  justify-content: space-around;
+}
+
+.b12 {
+  position: fixed;
+  right: 0px;
+}
+
+.c4 {
+  border: 2px solid black;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+
+}
